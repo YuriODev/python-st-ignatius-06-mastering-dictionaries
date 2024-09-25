@@ -1,5 +1,31 @@
 # Examples 🏋️‍♂️
 
+# Examples 👨🏼‍💻
+
+Here are some examples to get you started.
+
+<details open>
+<summary><b>Covered topics</b></summary>
+
+| Topic Covered                                           | Code with explanations                            | Problem description | Video explanation (is coming) |   
+| ------------------------------------------------------- | ------------------------------------------------- | ------------------- | ---------------- |
+| Print Dictionary Elements                               | [Detailed code](./example_1.py)                   | [Problem description](#example-1-print-dictionary-elements) | [Video explanation](#) |
+| Character Count in String                               | [Detailed code](./example_2.py)                   | [Problem description](#example-2-character-count-in-string) | [Video explanation](#) |
+| Count Unique Values in List                              | [Detailed code](./example_3.py)                   | [Problem description](#example-3-count-unique-values-in-list) | [Video explanation](#) |
+| Word Frequency Count                                     | [Detailed code](./example_4.py)                   | [Problem description](#example-4-word-frequency-count) | [Video explanation](#) |
+| Find Synonym                                              | [Detailed code](./example_5.py)                   | [Problem description](#example-5-find-synonym) | [Video explanation](#) |
+| Count Digits                                             | [Detailed code](./example_6.py)                   | [Problem description](#example-6-count-digits) | [Video explanation](#) |
+| Count Word Occurrences                                    | [Detailed code](./example_7.py)                   | [Problem description](#example-7-count-word-occurrences) | [Video explanation](#) |
+| Count Unique Words                                        | [Detailed code](./example_8.py)                   | [Problem description](#example-8-count-unique-words) | [Video explanation](#) |
+| Count Distinct Numbers                                    | [Detailed code](./example_9.py)                   | [Problem description](#example-9-count-distinct-numbers) | [Video explanation](#) |
+| Print Distinct Words                                       | [Detailed code](./example_10.py)                   | [Problem description](#example-10-print-distinct-words) | [Video explanation](#) |
+| Most Frequent Word                                        | [Detailed code](./example_11.py)                   | [Problem description](#example-11-most-frequent-word) | [Video explanation](#) |
+| Queen's Attack Range                                        | [Detailed code](./example_12.py)                   | [Problem description](#example-12-queens-attack-range) | [Video explanation](#) |
+| Word Length Statistics                                    | [Detailed code](./example_13.py)                   | [Problem description](#example-13-word-length-statistics) | [Video explanation](#) |
+| Latin-English Dictionary                                    | [Detailed code](./example_14.py)                   | [Problem description](#example-14-latin-english-dictionary) | [Video explanation](#) |
+| Language Knowledge                                        | [Detailed code](./example_15.py)                   | [Problem description](#example-15-language-knowledge) | [Video explanation](#) |
+
+
 <!-- 512 -->
 ## Example 1: Print Dictionary Elements
 
@@ -644,3 +670,5 @@ print("\n".join(output))
 
 
 
+
+**Notes:** All the examples above are solved using Python. You can find the solutions in the [examples](../examples) folder. Covered with explanations and comments, these examples will help you understand the practical implementation of the concepts covered in this module. Python tests are also included to verify the correctness of the solutions.
