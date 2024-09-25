@@ -1,10 +1,10 @@
 # 📘 Dictionaries in Python
 
-![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-06-mastering-dictionaries?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-06-mastering-dictionaries?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-06-mastering-dictionaries?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-06-mastering-dictionaries?style=for-the-badge)
+![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-06-mastering-dictionaries?style=for-the-badge)
 
 Welcome to the sixth module of the **YuriODev Comprehensive Python Course**, focusing on **Dictionaries**. This module will introduce you to one of Python's most powerful data structures, allowing you to store, manipulate, and access data using key-value pairs.
 
