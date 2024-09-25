@@ -525,3 +525,68 @@ This exercise tests the ability to use substitution ciphers for both encryption 
 
 ### Note:
 This exercise tests the ability to count word frequencies and sort words in Python.
+
+# Problems in Order of Difficulty According to ChatGPT
+
+The exercises provided range from understanding conditional statements to implementing complex branching logic. Here's a summary of the exercises ordered by difficulty, starting with the easiest and moving to more challenging problems.
+
+## Easy 😊
+Total: 6
+
+## Medium 🔥
+Total: 8
+
+## Hard 🥵
+Total: 4
+
+Each exercise is designed to challenge different aspects of problem-solving, from simple arithmetic to complex logical reasoning. The estimated completion time for the exercises ranges from 5 minutes for the simplest tasks to 25 minutes for the most complex ones. This gives an average expected time of approximately 10-15 minutes per exercise, depending on the student's prior knowledge and experience.
+
+
+# Checking Your Score with Autograder 📝
+
+GitHub Classroom's autograder provides immediate feedback on your exercises. Each exercise is worth points based on its complexity, with a total of `90` points available across all exercises. 
+
+When you commit and push your solution, GitHub Actions will run tests on your code. If all tests for an exercise pass, you will be awarded the full points for that exercise. If some tests fail, partial points may be awarded. 
+
+The workflow will run all tests, even if some fail. The total score will be shown in the workflow output as `points scored/total points available`. For example, if you see `10/90`, it means you've successfully completed the first problem worth `10` points.
+
+Please note that the workflow will show as failed if any test fails, even if you've successfully solved some problems. Look for the points tally in the output to see your score.
+
+Remember, practice makes perfect! If you don't pass all tests the first time, review your code, make improvements, and try again. You can push new changes as many times as you need.
+
+# Running Your Code and Tests Locally 🖥️
+
+To run your code and tests locally, you can use the following commands:
+
+1. Run the code:
+```bash
+python exercises/exercise_1.py
+```
+
+2. Run the tests:
+
+To run the tests for an exercise, you'll use the pytest framework. First, make sure you have pytest installed: 
+
+```bash
+pip install pytest
+```
+
+Then, you can run the tests for a specific exercise using the following command:
+
+```bash
+python -m unittest tests/test_exercise_1.py
+```
+
+And for more beautiful output, you can use:
+
+```bash
+pytest --color=yes -vv tests/test_exercise_1.py
+```
+
+or to run only failed test from a specific file:
+
+```bash
+pytest --color=yes --failed-first -x tests/test_exercise_1.py
+```
+
+Replace `exercise_1` with the exercise you're working on (e.g., `exercise_2`, `exercise_3`, etc.) and `test_exercise_1` with the corresponding test file.
